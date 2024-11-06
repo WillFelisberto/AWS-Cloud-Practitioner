@@ -619,26 +619,26 @@ o  [**AWS Cloud Adoption Framework (AWS CAF)**](https://d1.awsstatic.com/whitepa
 
 Em geral, as perspectivas de  **negócio**,  **pessoas**  e  **governança**  se concentram nos recursos comerciais, enquanto as perspectivas de  **plataforma**,  **segurança**  e  **operações**  se concentram em capacidades técnicas.
 
- **perspectiva de negócio**: A perspectiva de negócio garante que a TI esteja alinhada às necessidades de negócio e que os investimentos em TI estejam vinculados aos principais resultados dos negócios.
+ **Perspectiva de negócio**: A perspectiva de negócio garante que a TI esteja alinhada às necessidades de negócio e que os investimentos em TI estejam vinculados aos principais resultados dos negócios.
 Use a perspectiva de negócio para criar um caso de negócio sólido para adoção da nuvem e priorizar as iniciativas de adoção da nuvem. Garanta que suas estratégias e metas de negócios estejam alinhadas com suas estratégias e metas de TI. 
 
-**perspectiva de pessoas**: A  **perspectiva de pessoas**  promove o desenvolvimento de uma estratégia de gerenciamento de alterações em toda a organização para a adoção bem-sucedida da nuvem.
+**Perspectiva de pessoas**: A  **perspectiva de pessoas**  promove o desenvolvimento de uma estratégia de gerenciamento de alterações em toda a organização para a adoção bem-sucedida da nuvem.
 
 Use a perspectiva de pessoas para avaliar estruturas e perfis organizacionais, novos requisitos de habilidades e processos e identificar lacunas. Isso ajuda a priorizar treinamento, pessoal e mudanças organizacionais.
 
-**perspectiva de governança**: A  **perspectiva de governança**  se concentra nas habilidades e processos para alinhar a estratégia de TI à estratégia de negócios. Isso garante que você maximize o valor comercial e minimize os riscos.
+**Perspectiva de governança**: A  **perspectiva de governança**  se concentra nas habilidades e processos para alinhar a estratégia de TI à estratégia de negócios. Isso garante que você maximize o valor comercial e minimize os riscos.
 
 Use a perspectiva de governança para entender como atualizar as habilidades e os processos da equipe necessários para garantir a governança de negócios na nuvem. Gerencie e mensure os investimentos em nuvem para avaliar os resultados de negócios.
 
-**perspectiva de plataforma**: A  **perspectiva de plataforma**  inclui princípios e padrões para implementação de novas soluções na nuvem e migração de cargas de trabalho on-premises para a nuvem.  
+**Perspectiva de plataforma**: A  **perspectiva de plataforma**  inclui princípios e padrões para implementação de novas soluções na nuvem e migração de cargas de trabalho on-premises para a nuvem.  
 
 Use uma variedade de modelos arquitetônicos para entender e comunicar a estrutura dos sistemas de TI e suas relações. Descreva a arquitetura do ambiente de destino em detalhes.
 
-**perspectiva de segurança** : A  **perspectiva de segurança**  garante que a organização atenda aos objetivos de segurança de visibilidade, auditoria, controle e agilidade. 
+**Perspectiva de segurança** : A  **perspectiva de segurança**  garante que a organização atenda aos objetivos de segurança de visibilidade, auditoria, controle e agilidade. 
 
 Use o AWS CAF para estruturar a seleção e a implementação de controles de segurança que atendam às necessidades da organização.
 
-**perspectiva de operações** : A  **perspectiva de operações**  ajuda você a ativar, executar, usar, operar e recuperar cargas de trabalho de TI para o nível definido com os stakeholders da empresa.
+**Perspectiva de operações** : A  **perspectiva de operações**  ajuda você a ativar, executar, usar, operar e recuperar cargas de trabalho de TI para o nível definido com os stakeholders da empresa.
 
 Defina como os negócios diários, trimestrais e anuais são conduzidos. Alinhe e dê suporte às operações do negócio. O AWS CAF ajuda os stakeholders a definir os procedimentos operacionais atuais e identificar mudanças de processo e treinamento necessários para implementar a nuvem com sucesso.
 
