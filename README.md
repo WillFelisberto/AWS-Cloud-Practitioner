@@ -70,13 +70,13 @@
     - [AWS Cost Explorer](#aws-cost-explorer)
     - [AWS Support](#aws-support)
     - [AWS Marketplace](#aws-marketplace)
-  - [Módulo 9: Migração e Inovação](#módulo-9:-migração-e-inovação)
+  - [Módulo 9: Migração e Inovação](#módulo-9---migração-e-inovação)
     - [AWS Cloud Adoption Framework (AWS CAF)](#aws-cloud-adoption-framework-aws-caf)
     - [Seis estratégias de migração](#seis-estratégias-de-migração)
     - [AWS Snow Family](#aws-snow-family)
     - [Amazon SageMaker](#amazon-sagemaker)
     - [Amazon CodeWhisperer](#amazon-codewhisperer)
-  - [Módulo 10: A jornada para a nuvem](#módulo-10:-a-jornada-para-a-nuvem)
+  - [Módulo 10: A jornada para a nuvem](#módulo-10---a-jornada-para-a-nuvem)
     - [AWS Well-Architected Framework](#aws-well-architected-framework)
     - [Vantagens da computação em nuvem](#vantagens-da-computação-em-nuvem)
 
@@ -611,7 +611,7 @@ Recursos do plano de suporte  **AWS Enterprise Support Plan**  : Todos os recurs
 
 O [**AWS Marketplace**](https://aws.amazon.com/marketplace) é um catálogo digital com milhares de ofertas de software de provedores independentes de software. Você pode usar o AWS Marketplace para encontrar, testar e comprar software que pode ser executado na AWS.
 
-## Módulo 9: Migração e Inovação
+## Módulo 9 - Migração e Inovação
 
 ### AWS Cloud Adoption Framework (AWS CAF)
 
@@ -677,7 +677,7 @@ Com ele você consegue criar, treinar e implantar rapidamente modelos de machine
 Ele analisa e completa o código conforme o desenvolvedor  o escreve no ambiente de desenvolvimento integrado.  Ele vai além do preenchimento de código usando o processamento de linguagem natural  para compreender os comentários no código do desenvolvedor.  Por meio do entendimento de comentários em inglês,  o CodeWhisperer gera funções e blocos de código completos  que se alinham com as descrições de um desenvolvedor.
 
 
-## Módulo 10: A jornada para a nuvem
+## Módulo 10 - A jornada para a nuvem
 
 ### AWS Well-Architected Framework
 
