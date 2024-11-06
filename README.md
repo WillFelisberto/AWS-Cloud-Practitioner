@@ -84,7 +84,9 @@
 
 
 # Certificação AWS Cloud Practitioner
-Compilado de todas as anotações que fiz durante o estudo para tirar a certificação **[AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner).**
+Compilado de todas as anotações que fiz durante o estudo para tirar a certificação **[AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner).** 
+
+Anotações realizadas durante o curso o **[AWS SkillBuilder - AWS Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8287/aws-cloud-practitioner-essentials-portuguese?trk=7824700d-6ab3-41b3-84ae-06e9bced9717&sc_channel=el?)** 
 <hr>
 
 ## Tópicos
